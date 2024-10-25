@@ -1,5 +1,3 @@
-# Two-Tier-App-Deployment
-
 
 # Flask App with MySQL Docker Setup
 
