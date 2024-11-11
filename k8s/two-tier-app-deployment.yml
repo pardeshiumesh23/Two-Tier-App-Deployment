@@ -21,7 +21,7 @@ spec:
           image: pardeshiumesh23/flaskapp:latest
           env:
             - name: MYSQL_HOST
-              value: "mysql" #later update it with mysql pod ip address
+              value: "10.111.100.246" #later update it with mysql pod ip address
             - name: MYSQL_USER
               value: "root"
             - name: MYSQL_PASSWORD
